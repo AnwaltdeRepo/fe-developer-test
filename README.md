@@ -15,6 +15,8 @@ You can use those public endpoints
 - https://gorest.co.in/public/v2/posts
 - https://gorest.co.in/public/v2/todos
 
+Please note: To access those APIs you need an access token which you can get here: https://gorest.co.in
+
 # Environment
 - Docker as container management tool can be used but it's not a must
 - Implementation is in vue3 or v2 using composition API
