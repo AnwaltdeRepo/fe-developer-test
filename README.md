@@ -12,8 +12,8 @@ You can find a simple wire frame in this repository (wireframe.png) to get an im
 # APIs
 Since we're interested in your front end skills it is not necessary to implement an own API.
 You can use those public endpoints
-https://gorest.co.in/public/v2/posts
-https://gorest.co.in/public/v2/todos
+- https://gorest.co.in/public/v2/posts
+- https://gorest.co.in/public/v2/todos
 
 # Environment
 - Docker as container management tool can be used but it's not a must
