@@ -2,7 +2,7 @@
 Provide a dashboard including the following boxes:
 
 - latest posts
-- my todo's
+- my todo's (should only show todo's of a specific user id)
 
 You can find a simple wire frame in this repository (wireframe.png) to get an impression how it should look like.
 
