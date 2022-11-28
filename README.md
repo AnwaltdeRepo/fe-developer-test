@@ -20,7 +20,7 @@ Please note: To access those APIs you need an access token which you can get her
 # Environment
 - Docker as container management tool can be used but it's not a must
 - Implementation is in vue3 or v2 using composition API
-- CSS-Framework of your choice preferably Bootstrap 5
+- CSS-Framework of your choice
 - UI-Kit of your choice - if you want to use one.
 - Use webpack
 - Use sass or scss
